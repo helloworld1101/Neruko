@@ -1,0 +1,9 @@
+Cross compiler for i686-elf
+
+
+- Binutils 2.30
+- GCC 8.1.0
+
+Build CrossCompiler:
+- mkdir src
+- make build
